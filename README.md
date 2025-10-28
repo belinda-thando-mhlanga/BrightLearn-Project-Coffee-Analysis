@@ -34,9 +34,9 @@ Coffee & Tea products account for 67% of total revenue
 Other items (pastries, snacks) make up the remaining 33%
 
 # Recommendations to Boost Sales
-Maximise Morning Traffic
-Improve Off-Peak Performance
-Increase Average Transaction Value (ATV)
-Optimise Per Location
-Strengthen Loyalty & Digital Engagement
-Elevate Coffee & Tea Strategy
+- Maximise Morning Traffic
+- Improve Off-Peak Performance
+- Increase Average Transaction Value (ATV)
+- Optimise Per Location
+- Strengthen Loyalty & Digital Engagement
+- Elevate Coffee & Tea Strategy
