@@ -18,20 +18,20 @@ The primary objective was to analyse sales performance across various dimensions
 ## Key Findings
 
 ### Monthly Revenue Growth
-Revenue steadily increased from January to June
-January contributed 12%, growing to 24% by June
-Quantity sold grew proportionally, indicating stable unit pricing
+- Revenue steadily increased from January to June
+- January contributed 12%, growing to 24% by June
+- Quantity sold grew proportionally, indicating stable unit pricing
 
 ### Location Revenue Distribution
 3 store locations contributed nearly equally to total revenue
 
 ### Time-of-Day Sales Pattern
-Morning had the highest sales volume
-Followed by Afternoon, Evening
+- Morning had the highest sales volume
+- Followed by Afternoon, Evening
 
 ### Product Contribution
-Coffee & Tea products account for 67% of total revenue
-Other items (pastries, snacks) make up the remaining 33%
+- Coffee & Tea products account for 67% of total revenue
+- Other items (pastries, snacks) make up the remaining 33%
 
 # Recommendations to Boost Sales
 - Maximise Morning Traffic
