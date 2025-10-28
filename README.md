@@ -9,11 +9,11 @@ The analysis pipeline involved Project Planning (Miro),  Data Retrieval (SQL), D
 The primary objective was to analyse sales performance across various dimensions—including time, location, and product category—to help the coffee shop management make data-driven decisions on inventory, staffing, and marketing strategies.
 
 ## Tools Used
-Database: Snowflake
-Query Language: SQL
-Planning: Miro
-Visualisation: Excel
-Source Data: sales transaction dataset 
+- Database: Snowflake
+- Query Language: SQL
+- Planning: Miro
+- Visualisation: Excel
+- Source Data: sales transaction dataset 
 
 ## Key Findings
 
