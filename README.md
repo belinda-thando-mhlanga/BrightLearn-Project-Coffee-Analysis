@@ -23,7 +23,7 @@ The primary objective was to analyse sales performance across various dimensions
 - Quantity sold grew proportionally, indicating stable unit pricing
 
 ### Location Revenue Distribution
-3 store locations contributed nearly equally to total revenue
+- 3 store locations contributed nearly equally to total revenue
 
 ### Time-of-Day Sales Pattern
 - Morning had the highest sales volume
