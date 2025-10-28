@@ -1,5 +1,5 @@
 # BrightLearn-Project-Coffee-Analysis
-
+Coffee Shop analysis 
 
 ## Coffee Shop Sales Analysis: Q1-Q2 2023
 This project performs a comprehensive analysis of coffee shop sales data from January to June 2023 (Q1 and Q2) to identify key performance indicators (KPIs), understand sales trends, and provide actionable business insights.
