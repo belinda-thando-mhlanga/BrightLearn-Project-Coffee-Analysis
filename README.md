@@ -36,7 +36,6 @@ The primary objective was to analyse sales performance across various dimensions
 # Recommendations to Boost Sales
 - Maximise Morning Traffic
 - Improve Off-Peak Performance
-- Increase Average Transaction Value (ATV)
 - Optimise Per Location
 - Strengthen Loyalty & Digital Engagement
-- Elevate Coffee & Tea Strategy
+- Elevate Coffee & Tea Strategy per location
