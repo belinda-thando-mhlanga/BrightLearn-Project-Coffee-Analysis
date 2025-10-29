@@ -19,7 +19,6 @@ The primary objective was to analyse sales performance across various dimensions
 
 ### Monthly Revenue Growth
 - Revenue steadily increased from January to June
-- January contributed 12%, growing to 24% by June
 - Quantity sold grew proportionally, indicating stable unit pricing
 
 ### Location Revenue Distribution
@@ -37,5 +36,5 @@ The primary objective was to analyse sales performance across various dimensions
 - Maximise Morning Traffic
 - Improve Off-Peak Performance
 - Optimise Per Location
-- Strengthen Loyalty & Digital Engagement
+- Strengthen Loyalty 
 - Elevate Coffee & Tea Strategy per location
